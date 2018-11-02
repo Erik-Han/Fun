@@ -6,6 +6,7 @@ These are a few projects I have made throughout high school. They can be viewed 
 Ecosystem Simulation: This is a model of the interactions between a species of predator and prey in an environment. It simulates the original chaotic fluctuations in the population of both species and how they stabilize as time passes.
 
 Controls
+	
 	Arrow Keys - Change View
 	
 	M / N - Zoom Out / Zoom In
