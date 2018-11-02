@@ -7,7 +7,9 @@ Ecosystem Simulation: This is a model of the interactions between a species of p
 
 Controls
 	Arrow Keys - Change View
+	
 	M / N - Zoom Out / Zoom In
+	
 	S / D - Speed Up / Slow Down
 
 -----
@@ -16,6 +18,7 @@ Conway's Game of Life: My recreation of the mathematician John Conway's famous c
 
 Controls
 	R - Reset
+	
 	1, 2, 3, 4 - Different Variations
 
 -----
@@ -24,6 +27,7 @@ Dungeon Game: This is a game I made for fun.
 
 Controls
 	WASD - Move
+	
 	Arrow Keys - Shoot
 
 -----
