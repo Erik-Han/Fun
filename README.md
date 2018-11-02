@@ -1,9 +1,9 @@
 # Projects
-These are a few projects I have made throughout high school. They can be viewed if you download the jar files (java is required). The source code is in the respective project folders. 
+This directoy contains a few projects I have made throughout high school. They can be run if you download the .jar files (java is required). The source code for each project can be found in the respective project folders. 
 
 -----
 
-Ecosystem Simulation: This is a model of the interactions between a species of predator and prey in an environment. It simulates the original chaotic fluctuations in the population of both species and how they stabilize as time passes.
+Ecosystem Simulation: This is a model of a simple food chain in an evironment with a predator, consumer, and producer. It simulates the fluctuations in the population of the predator and consumer and how they stabilize as time passes.
 
 Controls
 	
