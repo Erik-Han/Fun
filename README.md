@@ -18,6 +18,7 @@ Controls
 Conway's Game of Life: My recreation of the mathematician John Conway's famous cellular automaton. Further information regarding this can be found at https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 Controls
+	
 	R - Reset
 	
 	1, 2, 3, 4 - Different Variations
@@ -27,6 +28,7 @@ Controls
 Dungeon Game: This is a game I made for fun.
 
 Controls
+	
 	WASD - Move
 	
 	Arrow Keys - Shoot
