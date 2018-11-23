@@ -1,5 +1,5 @@
 # Projects
-This directoy contains a few projects I have made throughout high school. They can be run if you download the .jar files (java is required). The source code for each project can be found in the respective project folders. 
+This directory contains a few projects I have made throughout high school. They can be run if you download the .jar files (java is required). The source code for each project can be found in the respective project folders. 
 
 -----
 
