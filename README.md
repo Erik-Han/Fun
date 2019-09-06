@@ -15,7 +15,7 @@ Controls
 
 -----
 
-Solar System Simulation: This is a WebVR model of the solar system created using A-Frame on glitch. The rotations, sizes, revolutions of the planets are scaled accurately relative to each other, the link is: https://shimmer-jellyfish.glitch.me/
+Solar System Simulation: This is a WebVR model of the solar system created using A-Frame on glitch. The rotations, sizes, and revolutions of the planets are scaled accurately relative to each other, the link is: https://shimmer-jellyfish.glitch.me/
 
 	WASD - Move
 	
