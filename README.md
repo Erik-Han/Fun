@@ -15,6 +15,14 @@ Controls
 
 -----
 
+Solar System Simulation: This is a WebVR model of the solar system created using A-Frame on glitch. The rotations, sizes, revolutions of the planets are scaled accurately relative to each other, the link is: https://shimmer-jellyfish.glitch.me/
+
+	WASD - Move
+	
+	Mouse - Look Around
+	
+-----
+
 Conway's Game of Life: My recreation of the mathematician John Conway's famous cellular automaton. Further information regarding this can be found at https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 Controls
@@ -34,3 +42,5 @@ Controls
 	Arrow Keys - Shoot
 
 -----
+
+
