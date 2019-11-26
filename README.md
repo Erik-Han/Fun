@@ -33,7 +33,7 @@ Controls
 
 -----
 
-Dungeon Game: Rotmg clone.
+Dungeon Game: My Rotmg clone.
 
 Controls
 	
